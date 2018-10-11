@@ -10,7 +10,7 @@ html {
 }
 
 .cards {
-  margin:0;
+  margin: 0;
   padding: 0;
   list-style-type: none;
   text-align: center;
@@ -24,7 +24,7 @@ html {
   background-color: #fff;
   border: 3px solid #e2e2e2;
   border-radius: 10px;
-  text-radius: left;
+  text-align: left;
 }
 
 .cards img {
@@ -35,14 +35,12 @@ html {
 .cards strong {
   display: block;
   margin-bottom: 1rem;
-  text-align: left;
 
   font-size: 1.125rem;
 }
 
 .cards dl {
   margin-bottom: 1rem;
-  text-align: left;
 }
 
 .cards dt {
